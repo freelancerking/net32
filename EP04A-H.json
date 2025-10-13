@@ -1,0 +1,58 @@
+{
+    "statusCode": 200,
+    "payload": {
+        "result": [{
+            "mpid": 118100,
+            "vpCode": "EP04A-H",
+            "mpCode": "UC-EP04",
+            "manufacturerName": "House Brand",
+            "brandName": "House Brand",
+            "description": "Anterior Bite Registration/Impression Trays, Plastic with Non-Tear Mesh, Box of 30 Trays, with ID label Sticker.",
+            "fulfillmentPolicy": "Stock",
+            "inStock": true,
+            "inventory": 999,
+            "pht": 5,
+            "atts": 1,
+            "annualQtySales": 6,
+            "annualSales": 35.80,
+            "lastOrderDate": "2025-10-08T02:20:40.616386-04:00",
+            "category": "Bite trays",
+            "retailPrice": 21.95,
+            "priceList": [{
+                "minQty": 1,
+                "price": 15.00,
+                "activeCd": 1,
+                "effectiveTimestamp": "2025-10-10T06:58:30.03-04:00",
+                "endTime": null
+            }, {
+                "minQty": 2,
+                "price": 8.10,
+                "activeCd": 0,
+                "effectiveTimestamp": "2024-08-13T01:58:21.616266-04:00",
+                "endTime": "2024-08-15T14:45:02.316-04:00"
+            }, {
+                "minQty": 3,
+                "price": 58.00,
+                "activeCd": 1,
+                "effectiveTimestamp": "2025-10-10T06:58:30.033-04:00",
+                "endTime": null
+            }, {
+                "minQty": 5,
+                "price": 6.74,
+                "activeCd": 0,
+                "effectiveTimestamp": "2025-10-03T16:44:36.394-04:00",
+                "endTime": "2025-10-10T06:58:30.035708-04:00"
+            }, {
+                "minQty": 10,
+                "price": 6.44,
+                "activeCd": 1,
+                "effectiveTimestamp": "2025-10-03T16:44:36.411-04:00",
+                "endTime": null
+            }],
+            "promoPriceList": [],
+            "status": "Active"
+        }],
+        "totalResults": 1,
+        "totalReturned": 1
+    }
+}
