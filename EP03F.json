@@ -1,0 +1,58 @@
+{
+    "statusCode": 200,
+    "payload": {
+        "result": [{
+            "mpid": 118102,
+            "vpCode": "EP03F",
+            "mpCode": "UC-EP03",
+            "manufacturerName": "House Brand",
+            "brandName": "House Brand",
+            "description": "Full Arch Bite Registration/Impression Tray, Plastic tray with Non-Tear Mesh. Box of 25 Trays, with ID Stickers.",
+            "fulfillmentPolicy": "Stock",
+            "inStock": true,
+            "inventory": 20,
+            "pht": 1,
+            "atts": null,
+            "annualQtySales": 0,
+            "annualSales": 0.00,
+            "lastOrderDate": "2023-06-16T20:05:21.211207-04:00",
+            "category": "Bite trays",
+            "retailPrice": 21.95,
+            "priceList": [{
+                "minQty": 1,
+                "price": 4.87,
+                "activeCd": 1,
+                "effectiveTimestamp": "2025-10-21T16:04:02.294-04:00",
+                "endTime": null
+            }, {
+                "minQty": 2,
+                "price": 9.48,
+                "activeCd": 0,
+                "effectiveTimestamp": "2024-08-13T01:42:54.439919-04:00",
+                "endTime": "2024-08-15T14:46:30.042-04:00"
+            }, {
+                "minQty": 3,
+                "price": 58.00,
+                "activeCd": 1,
+                "effectiveTimestamp": "2025-10-03T16:32:58.598-04:00",
+                "endTime": null
+            }, {
+                "minQty": 5,
+                "price": 8.45,
+                "activeCd": 0,
+                "effectiveTimestamp": "2025-01-05T02:11:43.477599-05:00",
+                "endTime": "2025-10-03T16:32:58.602535-04:00"
+            }, {
+                "minQty": 10,
+                "price": 7.95,
+                "activeCd": 1,
+                "effectiveTimestamp": "2025-01-05T02:11:43.575845-05:00",
+                "endTime": null
+            }],
+            "promoPriceList": [],
+            "status": "Active"
+        }],
+        "totalResults": 1,
+        "totalReturned": 1
+    }
+}

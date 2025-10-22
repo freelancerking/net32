@@ -1,0 +1,64 @@
+{
+    "statusCode": 200,
+    "payload": {
+        "result": [{
+            "mpid": 72999,
+            "vpCode": "UC132P-PD",
+            "mpCode": "PD-265",
+            "manufacturerName": "Pac-Dent",
+            "brandName": "Pac-Dent",
+            "description": "High Performance Mixing Tips - Medium (5.2 mm), Pink, Package of 48.",
+            "fulfillmentPolicy": "Stock",
+            "inStock": true,
+            "inventory": 999,
+            "pht": 1,
+            "atts": null,
+            "annualQtySales": null,
+            "annualSales": null,
+            "lastOrderDate": null,
+            "category": "Mixing material tips",
+            "retailPrice": 51.99,
+            "priceList": [{
+                "minQty": 1,
+                "price": 28.99,
+                "activeCd": 1,
+                "effectiveTimestamp": "2025-08-11T16:13:19.303801-04:00",
+                "endTime": null
+            }, {
+                "minQty": 2,
+                "price": 26.36,
+                "activeCd": 1,
+                "effectiveTimestamp": "2025-07-23T21:43:26.438592-04:00",
+                "endTime": null
+            }, {
+                "minQty": 3,
+                "price": 25.20,
+                "activeCd": 1,
+                "effectiveTimestamp": "2025-07-23T21:43:26.520554-04:00",
+                "endTime": null
+            }, {
+                "minQty": 4,
+                "price": 24.62,
+                "activeCd": 1,
+                "effectiveTimestamp": "2025-07-23T21:43:26.606231-04:00",
+                "endTime": null
+            }, {
+                "minQty": 5,
+                "price": 23.66,
+                "activeCd": 1,
+                "effectiveTimestamp": "2025-07-23T21:43:26.686724-04:00",
+                "endTime": null
+            }, {
+                "minQty": 10,
+                "price": 22.89,
+                "activeCd": 1,
+                "effectiveTimestamp": "2025-07-23T21:43:26.768973-04:00",
+                "endTime": null
+            }],
+            "promoPriceList": [],
+            "status": "Active"
+        }],
+        "totalResults": 1,
+        "totalReturned": 1
+    }
+}
